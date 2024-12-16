@@ -8,8 +8,9 @@
 Hello World ! I am an IT studentjust starting out on this tech journey. I'm  here to learn .
 
 ### 🌱 Learning
-- Exploring different languanges (Java,HTML,CSS,JS,PHP,SQL)
-- Goal's : C,JS,+++
+- 
+- 💻 Exploring different languages (Java, HTML, CSS, SQL)
+- 🎯 Goal's: C , JS, PHP , Phyton , etc.. , Deepen understanding & 📜 more certificates!
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -29,4 +30,4 @@ Hello World ! I am an IT studentjust starting out on this tech journey. I'm  her
   
 
 ### ⚡ Fun Fact
--HUWAG NA SANA MAG ERROR PLEASE
+- HUWAG NA SANA MAG ERROR PLEASE!!
