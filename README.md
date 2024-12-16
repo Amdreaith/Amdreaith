@@ -5,10 +5,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=droid-dreaith)
 
 ## About Me 🌟
-Hello World ! I am an curious IT studentjust starting out on this tech journey. I'm  here to learn .
+Hello World ! I am an IT studentjust **starting out** on this tech journey. 
 
 ### 🌱 Learning
-- 
 - 💻 Exploring different languages (Java, HTML, CSS, SQL)
 - 🎯 Goal's: C , JS, PHP , Phyton , etc.. , Deepen understanding & 📜 more certificates!
 
@@ -26,4 +25,4 @@ Hello World ! I am an curious IT studentjust starting out on this tech journey. 
 </div>
 
 ### ⚡ Fun Fact
-- HUWAG NA SANA MAG ERROR PLEASE!!
+-There's a lot to learn and The privilege of learning is one we must cherish.
