@@ -6,11 +6,11 @@
 **There's a lot to learn and The privilege of learning is one we must cherish.**
 ## About Me 🌟
 
-**"Hello World! I'm an IT student ⚡ just beginning my journey in the tech world."**
+**"Hello World! I'm an IT student ⚡ just beginning my journey in the tech world this Aug 24."**
 
 ### 🌱 Learning
 - 💻 Exploring different languages (Java, HTML, CSS, SQL)
-- 🎯 Goal's: C , JS, PHP , Phyton , etc.. , Deepen understanding &  📜 "more certifications" !
+- 🎯 Goal's: more programming languages  ( JS, PHP ), deepen understanding &  📜 " more certifications " !
 
 ### 📊 GitHub Stats
 <div align="center">
