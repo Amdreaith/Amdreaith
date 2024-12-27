@@ -9,7 +9,7 @@
 **"Hello World! I'm an IT student ⚡ just beginning my journey in the tech world this Aug 2024."**
 
 ### 🌱 Learning
-- 💻 Currently starting Phyton , Exploring different languages (Java, HTML, CSS, SQL)
+- 💻 starting Phyton , Exploring different languages like : (Java, HTML, CSS, SQL)
 - 🎯 Goal's: more programming languages ( JS, PHP , C , C++ ,Bootsrap ,etc.. ), deepen understanding &  📜 " more certifications " !
 
 ### 📊 GitHub Stats
