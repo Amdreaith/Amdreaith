@@ -7,21 +7,24 @@
 ## About Me 🌟
 
 **"Hello World! I'm an IT student ⚡ just beginning my journey in the tech world this Aug 2024."**
+
 ### 🌱 **Learning Journey**
 
 - 💻 **Currently Learning**:  
    Diving into programming with the following languages and technologies:
-   - ![python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-   - ![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-   - ![html](https://img.icons8.com/color/48/000000/html-5.png)
-   - ![css](https://img.icons8.com/color/48/000000/css3.png)
-   - ![sql](https://img.icons8.com/ios/50/database.png)
+   <div align="center">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" />
+     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48" />
+     <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" />
+     <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" />
+     <img src="https://img.icons8.com/ios/50/database.png" width="48" height="48" />
+   </div>
    
 - 🎯 **Learning Goals**:  
    - 🌐 Master more programming languages: **JavaScript**, **PHP**, **C**, **C++**, **Bootstrap**, and beyond!
    - 📈 Deepen my understanding of computer science concepts and problem-solving.
    - 💡 Complete more hands-on projects to solidify my knowledge and improve my practical skills.
-   - 🏅 **Future Certifications**:  
+   - 🏅 **Certification Goals**:  
      - **Cisco Certified (CC)**
      - **TryHackMe** (Cybersecurity)
      - **Cisco Certifications** (Networking and Security)
