@@ -26,7 +26,7 @@
    - 📈 Deepen my understanding of computer science concepts and problem-solving.
    - 💡 Complete more hands-on projects to solidify my knowledge and improve my practical skills.
    - 🏅 **Certification Goals**:  
-     - **Cisco Certified (CC)**
+     - **(CC)**
      - **TryHackMe** (Cybersecurity)
      - **Cisco Certifications** (Networking and Security)
      - **CS50** (Harvard's Introduction to Computer Science)
