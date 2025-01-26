@@ -7,10 +7,27 @@
 ## About Me 🌟
 
 **"Hello World! I'm an IT student ⚡ just beginning my journey in the tech world this Aug 2024."**
+### 🌱 **Learning Journey**
 
-### 🌱 Learning
-- 💻 starting Phyton , Exploring different languages like : (Java, HTML, CSS, SQL)
-- 🎯 Goal's: more programming languages ( JS, PHP , C , C++ ,Bootsrap ,etc.. ), deepen understanding &  📜 " more certifications " !
+- 💻 **Currently Learning**:  
+   Diving into programming with the following languages and technologies:
+   - ![python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+   - ![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+   - ![html](https://img.icons8.com/color/48/000000/html-5.png)
+   - ![css](https://img.icons8.com/color/48/000000/css3.png)
+   - ![sql](https://img.icons8.com/ios/50/database.png)
+   
+- 🎯 **Learning Goals**:  
+   - 🌐 Master more programming languages: **JavaScript**, **PHP**, **C**, **C++**, **Bootstrap**, and beyond!
+   - 📈 Deepen my understanding of computer science concepts and problem-solving.
+   - 💡 Complete more hands-on projects to solidify my knowledge and improve my practical skills.
+   - 🏅 **Future Certifications**:  
+     - **Cisco Certified (CC)**
+     - **TryHackMe** (Cybersecurity)
+     - **Cisco Certifications** (Networking and Security)
+     - **CS50** (Harvard's Introduction to Computer Science)
+
+   ![goal](https://img.icons8.com/ios/50/goal.png)
 
 ### 📊 GitHub Stats
 <div align="center">
