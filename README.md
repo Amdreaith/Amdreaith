@@ -7,6 +7,7 @@
 ## About Me 🌟
 
 **"Hello World! I'm an IT student ⚡ just beginning my journey in the tech world this Aug 2024."**
+"Uncertainty is not a barrier, but a canvas—where possibilities are painted with the brush of curiosity and courage."
 
 ### 🌱 **Learning Journey**
 
