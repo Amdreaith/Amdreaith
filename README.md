@@ -11,20 +11,12 @@
 
 ### 🌱 **Learning Journey**
 
-- 💻 **Currently Learning**:  
-   Diving into programming with the following languages and technologies:
-   <div align="center">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" />
-     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48" />
-     <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" />
-     <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" />
-     <img src="https://img.icons8.com/ios/50/database.png" width="48" height="48" />
-   </div>
-   
+
 - 🎯 **Learning Goals**:  
-   - 🌐 Master more programming languages: **JavaScript**, **PHP**, **C**, **C++**, **Bootstrap**, and beyond!
+   - 🌐  more programming languages
    - 📈 Deepen my understanding of computer science concepts and problem-solving.
    - 💡 Complete more hands-on projects to solidify my knowledge and improve my practical skills.
+   - -have fun!
   
 
    ![goal](https://img.icons8.com/ios/50/goal.png)
