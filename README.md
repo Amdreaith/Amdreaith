@@ -6,7 +6,7 @@
 **There's a lot to learn and The privilege of learning is one we must cherish.**
 ## About Me 🌟
 
-**"Hello World! I'm an IT student ⚡ just beginning my journey in the tech world this Aug 2024."**
+**"Hello World! I'm an IT student ⚡ just beginning my journey in the tech world this 2024."**
 "Uncertainty is not a barrier, but a canvas—where possibilities are painted with the brush of curiosity and courage."
 
 ### 🌱 **Learning Journey**
@@ -25,11 +25,7 @@
    - 🌐 Master more programming languages: **JavaScript**, **PHP**, **C**, **C++**, **Bootstrap**, and beyond!
    - 📈 Deepen my understanding of computer science concepts and problem-solving.
    - 💡 Complete more hands-on projects to solidify my knowledge and improve my practical skills.
-   - 🏅 **Certification Goals**:  
-     - **(CC)**
-     - **TryHackMe** (Cybersecurity)
-     - **Cisco Certifications** (Networking and Security)
-     - **CS50** (Harvard's Introduction to Computer Science)
+  
 
    ![goal](https://img.icons8.com/ios/50/goal.png)
 
