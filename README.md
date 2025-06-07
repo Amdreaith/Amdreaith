@@ -8,6 +8,17 @@
 
 
 ---
+### 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2022-NCIII%20Bookkeeping-blue?style=for-the-badge" alt="NCIII Bookkeeping" />
+  <img src="https://img.shields.io/badge/2024-Google%20UX%20Design-yellow?style=for-the-badge" alt="Google UX Design" />
+  <img src="https://img.shields.io/badge/2024-Google%20AI%20Essentials-blueviolet?style=for-the-badge" alt="Google AI Essentials" />
+  <img src="https://img.shields.io/badge/2024-Intro%20to%20CIP-lightgrey?style=for-the-badge" alt="Intro to CIP" />
+  <img src="https://img.shields.io/badge/2024-Google%20Cybersecurity-red?style=for-the-badge" alt="Google Cybersecurity" />
+  <img src="https://img.shields.io/badge/2025-Cisco%20Intro%20to%20Cybersecurity-green?style=for-the-badge" alt="Cisco Intro to Cybersecurity" />
+</p>
+
 
 ### 📚 **PLANNING TO LEARN**
 
