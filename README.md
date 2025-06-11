@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/2024-Google%20AI%20Essentials-blueviolet?style=for-the-badge" alt="Google AI Essentials" />
   <img src="https://img.shields.io/badge/2024-Intro%20to%20CIP-lightgrey?style=for-the-badge" alt="Intro to CIP" />
   <img src="https://img.shields.io/badge/2024-Google%20Cybersecurity-red?style=for-the-badge" alt="Google Cybersecurity" />
-  <img src="https://img.shields.io/badge/2025-Cisco%20Intro%20to%20Cybersecurity-green?style=for-the-badge" alt="Cisco Intro to Cybersecurity" />
+  <img src="https://img.shields.io/badge/2025-CISCO%20Intro%20to%20Cybersecurity-green?style=for-the-badge" alt="Cisco Intro to Cybersecurity" />
+  <img src="https://img.shields.io/badge/2025-CISCO%20Javacsript%20%20Essentials 1-green?style=for-the-badge" alt="Cisco Javascript Essenstials 1" />
 </p>
-
 
 ### 📚 **PLANNING TO LEARN**
 
