@@ -22,16 +22,6 @@
 
 
 
-### ☕ Let's Connect!
-
-<p align="center">
-  <a href="https://medium.com/@dreaith" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://tryhackme.com/p/Dreaith" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-%23000000.svg?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
-  </a>
-</p>
 
 
 ### 📊 GitHub Stats
