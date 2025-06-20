@@ -4,7 +4,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=droid-dreaith)
 
 
-![image](https://github.com/user-attachments/assets/a01171cd-afd2-41d7-8113-9784c23468bf)
+![image](https://github.com/user-attachments/assets/75d2b169-422f-4727-b34f-82a5f6ce2c50)
+
 
 
 ---
