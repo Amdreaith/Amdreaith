@@ -7,6 +7,9 @@
 ![image](https://github.com/user-attachments/assets/75d2b169-422f-4727-b34f-82a5f6ce2c50)
 
 
+# 🎨 I LOVE DOING ART
+
+> Whenever I want and no pressure
 
 ---
 
