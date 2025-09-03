@@ -22,7 +22,7 @@
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=bdb2ff&width=900&lines=Blue+Team+Learner;interested in UI/UX+Design;React+%26+Node.js+Explorer;Developer+in+Progress" 
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=bdb2ff&width=900&lines=Blue+Team+Learner;interested+in+UI/UX+Design;React+%26+Node.js+Explorer;Developer+in+Progress" 
          alt="Typing animation" 
          style="border: 3px solid transparent; border-radius: 15px; background: linear-gradient(#1a1a1a, #1a1a1a) padding-box, linear-gradient(90deg, #00CED1, #6A5ACD, #FF69B4) border-box; padding: 15px;" />
   </p>
