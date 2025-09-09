@@ -2,7 +2,7 @@
   <tr>
     <td align="center">
       <img 
-        src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=bdb2ff&background=e8eef1&width=950&lines=+Hello+World+!;Let%27s+Connect!" 
+        src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=bdb2ff&width=950&lines=+Hello+World+!;Let%27s+Connect!" 
         alt="Typing animation"
       />
     </td>
