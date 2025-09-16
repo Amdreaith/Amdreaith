@@ -29,12 +29,6 @@
 </div>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌌_CERTIFICATIONS-bdb2ff?style=for-the-badge&logoColor=white" />
-</p>
-
-
-
 ### 📊 GitHub Stats
 
 <table align="center">
