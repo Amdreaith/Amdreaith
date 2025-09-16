@@ -33,15 +33,6 @@
   <img src="https://img.shields.io/badge/🌌_CERTIFICATIONS-bdb2ff?style=for-the-badge&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📊_NCIII_Bookkeeping-2024-bdb2ff?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎨_Google_UX_Design-2024-bdb2ff?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖_Google_AI_Essentials-2024-bdb2ff?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔒_Intro_to_CIP-2024-bdb2ff?style=for-the-badge&logo=lock&logoColor=white" />
-  <img src="https://img.shields.io/badge/🛡️_Google_Cybersecurity-2024-bdb2ff?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔐_Cisco_Intro_to_Cybersecurity-2025-bdb2ff?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/💻_Cisco_JavaScript_Essentials_1-2025-bdb2ff?style=for-the-badge&logo=javascript&logoColor=white" />
-</p>
 
 
 ### 📊 GitHub Stats
