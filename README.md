@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=I+am+the+one+who+still+tries...;And+I+love+exploring+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=;I+Love+to+explore+🌍" alt="Typing SVG" />
 </p>
 
 ---
@@ -59,12 +59,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amdreaith&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/006AFF/Amdreaith" alt="GitHub Contributions Chart" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,cpp,react,nodejs,git,github" alt="Skills" />
 </p>
