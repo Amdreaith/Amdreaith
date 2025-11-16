@@ -34,7 +34,7 @@ def say_hi(self):
 me = Explorer()
 me.say_hi()
 ```
-<img width="502" height="148" alt="image" src="https://github.com/user-attachments/assets/c91c50ee-5787-4696-8102-7f7bcf2a38af" />
+<img width="402" height="148" alt="image" src="https://github.com/user-attachments/assets/c91c50ee-5787-4696-8102-7f7bcf2a38af" />
 
 
 
