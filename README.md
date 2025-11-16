@@ -28,38 +28,33 @@ class Explorer:
     def __init__(self):
         self.name = "Amdreaith"
         self.mindset = "Curiosity Driven"
-        self.motto = "Always learning, always growing even though small steps matter"
 
 def say_hi(self):
     print("Thanks for visiting! Let's learn and build together 🌱")
 me = Explorer()
 me.say_hi()
 ```
-- 🔐 Passionate about cybersecurity 
-- 🌍 Love to explore and try new things!
-- 🎯 Always learning and pushing boundaries
-- 🚀 Constantly experimenting with new technologies
+<img width="502" height="148" alt="image" src="https://github.com/user-attachments/assets/c91c50ee-5787-4696-8102-7f7bcf2a38af" />
 
----
+
+
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### Frameworks & Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Cybersecurity Platforms
+### Cybersec. Platforms
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![picoCTF](https://img.shields.io/badge/picoCTF-A9225C?style=for-the-badge&logo=picoctf&logoColor=white)
+![CyberDefenders](https://img.shields.io/badge/CyberDefenders-2E86C1?style=for-the-badge)
+
 
 ### Tools & Environments
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -114,7 +109,4 @@ me.say_hi()
 > **"The unexamined life is not worth living."**  
 > — *Socrates*
 
-### ✨ Thanks for visiting!
-
-**Happy Coding!** 🚀 
 </div> <img align="right" alt="book" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
