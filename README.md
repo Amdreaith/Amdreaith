@@ -36,28 +36,6 @@ class Explorer {
 ?>
 
 ```
-## Tech Stack
-
-<div align="center">
-
-### Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8B4513?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-8B4513?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Cybersecurity Platforms
-![TryHackMe](https://img.shields.io/badge/TryHackMe-8B4513?style=for-the-badge&logo=tryhackme&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-8B4513?style=for-the-badge&logo=hackthebox&logoColor=black)
-![picoCTF](https://img.shields.io/badge/picoCTF-8B4513?style=for-the-badge&logo=picoctf&logoColor=white)
-![CyberDefenders](https://img.shields.io/badge/CyberDefenders-8B4513?style=for-the-badge&logo=cyberdefenders&logoColor=white)
-
-### Tools & Environments
-![VS Code](https://img.shields.io/badge/VS_Code-8B4513?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-8B4513?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-8B4513?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8B4513?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
 
 </div>
 
