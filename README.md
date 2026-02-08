@@ -30,8 +30,8 @@
 <img align="right" width="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtsMzV0ZGF2eTd0YTBlaGZqMnNtanh4em00YnUycDkxdnQ2eGw3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/us9HucS43hJ5I3j6jV/giphy.gif">
 
 ```
-█▀▄ █▀█ █▀▀ ▄▀█ █ ▀█▀ █ █                                          + MANA:   ██████     70%
-█▄▀ █▀▄ ██▄ █▀█ █  █  █▀█                                          + HEALTH: ██████████ 100%
+█▀▄ █▀█ █▀▀ ▄▀█ █ ▀█▀ █ █                                      + MANA:   ██████     70%
+█▄▀ █▀▄ ██▄ █▀█ █  █  █▀█                                      + HEALTH: ██████████ 100%
 ```
 ```ascii
 ╔═══════════════════════════════════╗
@@ -69,7 +69,7 @@
 
 
 <p align="center" style="white-space: nowrap; overflow-x: auto;">
-  <img src="https://skillicons.dev/icons?i=c,java,python,php,html,css,js,bootstrap,react,nodejs,laravel,mysql,mongodb,postgresql,linux,eclipse,pycharm,postman,figma,vscode,git,github,canva" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,bootstrap,react,nodejs,laravel,mysql,mongodb,postgresql,linux,figma,vscode,git,github,canva" />
 </p>
 
 </div>
