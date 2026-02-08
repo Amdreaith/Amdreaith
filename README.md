@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-🎵 <b>Now Playing</b>: the way things go - Beabadoobee  
+🎵 <b>Now Playing</b>: girl song - Beabadoobee  
 🔊 
 </p>
 
@@ -30,8 +30,8 @@
 <img align="right" width="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtsMzV0ZGF2eTd0YTBlaGZqMnNtanh4em00YnUycDkxdnQ2eGw3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/us9HucS43hJ5I3j6jV/giphy.gif">
 
 ```
-█▀▄ █▀█ █▀▀ ▄▀█ █ ▀█▀ █ █                                              + MANA:   ██████     70%
-█▄▀ █▀▄ ██▄ █▀█ █  █  █▀█                                              + HEALTH: ██████████ 100%
+█▀▄ █▀█ █▀▀ ▄▀█ █ ▀█▀ █ █                                          + MANA:   ██████     70%
+█▄▀ █▀▄ ██▄ █▀█ █  █  █▀█                                          + HEALTH: ██████████ 100%
 ```
 ```ascii
 ╔═══════════════════════════════════╗
@@ -44,58 +44,47 @@
 ╚═══════════════════════════════════╝
 ```
 ### CURRENT QUESTS
-```diff
+```
 + 🗡️ Create a project
 + 🎨 Polishing UI/UX skills
 + 📚 Scaling dev depth
 + <> Deepening my security side
 ```
 
+
+
 <br clear="right"/>
 
-
-<!-- Pixel Divider -->
-<p align="center">
-🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪
-</p>
+<img width="1748" height="137" alt="image" src="https://github.com/user-attachments/assets/8eea6dd6-0a61-4c10-a9cf-6a7c6d4bf800" />
 
 
-
-<!-- ===================================================== -->
-<!-- ======================= SKILLS ====================== -->
-<!-- ===================================================== -->
-
-<h2 align="center">⚔️ TECH ARSENAL ⚔️</h2>
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════╗
-║          EQUIPPED WEAPONS & TOOLS               ║
+║           EQUIPPED WEAPONS & TOOLS               ║
 ╚══════════════════════════════════════════════════╝
 ```
-<p align="center">
-  
 
-  <img src="https://img.icons8.com/fluency/48/canva.png" width="48" height="48" style="vertical-align:bottom;" />
-  <img src="https://skillicons.dev/icons?i=c,java,python,php,html,css,js,bootstrap,react,nodejs,laravel,mysql,mongodb,postgresql,linux,eclipse,pycharm,postman,figma,vscode,git,github" />
+
+<p align="center" style="white-space: nowrap; overflow-x: auto;">
+  <img src="https://skillicons.dev/icons?i=c,java,python,php,html,css,js,bootstrap,react,nodejs,laravel,mysql,mongodb,postgresql,linux,eclipse,pycharm,postman,figma,vscode,git,github,canva" />
 </p>
+
 </div>
 
 
 
-<p align="center">
-🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪 🟪
-</p>
 
-
-<!-- ===================================================== -->
-<!-- ======================= STATS ======================= -->
-<!-- ===================================================== -->
-
-<h2 align="center"> PLAYER STATISTICS</h2>
 
 <div align="center">
+
+```
+╔══════════════════════════════════════════════════╗
+║               PLAYER STATISTICS                  ║
+╚══════════════════════════════════════════════════╝
+```
 
 <br/>
 <p align="center">
