@@ -14,7 +14,7 @@
 <tr>
 <td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=9b59b6&width=900&lines=PLAYER+DREAITH+ENTERED+THE+GAME;EXPLORER+DEVELOPER+SECURITY+ENTHUSIAST;HELLO+COFFEE+WORLD!;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=9b59b6&width=900&lines=Loading+brain...;Still+loading...;Powered+by+coffee;Accidentally+improving.......;hahahaha+nice;"/>
 
 </td>
 
@@ -34,14 +34,17 @@
 █▄▀ █▀▄ ██▄ █▀█ █  █  █▀█                                      + HEALTH: ██████████ 100%
 ```
 ```ascii
-╔═══════════════════════════════════╗
-║            PLAYER PROFILE         ║
-╠═══════════════════════════════════╣
-║  NAME: Dreaith                    ║
-║  CLASS: Technology & Life Explorer║
-║  ROLE: CTF Player                 ║
-║  STATUS: Leveling Up              ║
-╚═══════════════════════════════════╝
+╔════════════════════════════════════════╗
+║             PLAYER PROFILE             ║
+╠════════════════════════════════════════╣
+║ CLASS: Ramen Assassin                  ║
+║ ROLE: “I Pressed the Wrong Button”     ║
+║ STATUS: Trying to look serious         ║
+║         keeps memeing mid-game         ║
+║ BUFF: Ramen  & accidental clutch       ║
+║ DEBUFF: Hooman outsmarts me daily      ║
+╚════════════════════════════════════════╝
+
 ```
 ### CURRENT QUESTS
 ```
