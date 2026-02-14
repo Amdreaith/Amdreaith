@@ -35,14 +35,13 @@
 ```
 ```ascii
 ╔════════════════════════════════════════╗
-║             PLAYER PROFILE             ║
+║               PLAYER PROFILE           ║
 ╠════════════════════════════════════════╣
-║ CLASS: Ramen Assassin                  ║
-║ ROLE: “I Pressed the Wrong Button”     ║
-║ STATUS: Trying to look serious         ║
-║         keeps memeing mid-game         ║
-║ BUFF: Ramen  & accidental clutch       ║
-║ DEBUFF: Hooman outsmarts me daily      ║
+║ CLASS: Work In Progress                ║
+║ ROLE: Cooking... . . do not disturb    ║
+║ STATUS: NBSB, OTP: Coffee              ║
+║ BUFF: Daily reps                       ║
+║ DEBUFF: Comfort deleted                ║
 ╚════════════════════════════════════════╝
 
 ```
