@@ -71,7 +71,7 @@
 
 
 <p align="center" style="white-space: nowrap; overflow-x: auto;">
-  <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,bootstrap,react,nodejs,laravel,mysql,mongodb,postgresql,linux,figma,vscode,git,github,canva" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,nodejs,laravel,mysql,mongodb,postgresql,linux,figma,vscode,git" />
 </p>
 
 </div>
