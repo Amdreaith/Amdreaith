@@ -34,30 +34,23 @@
 █▄▀ █▀▄ ██▄ █▀█ █  █  █▀█                                      + HEALTH: ██████████ 100%
 ```
 ```ascii
-╔════════════════════════════════════════╗
-║               PLAYER PROFILE           ║
-╠════════════════════════════════════════╣
-║ CLASS: Work In Progress                ║
-║ ROLE: Cooking... . . do not disturb    ║
-║ STATUS: NBSB, OTP: Coffee              ║
-║ BUFF: Daily reps                       ║
-║ DEBUFF: Comfort deleted                ║
-╚════════════════════════════════════════╝
+╔═════════════════════════════════════════╗
+║              PLAYER PROFILE             ║
+╠═════════════════════════════════════════╣
+║ CLASS: Cyber Apprentice                 ║
+║ ROLE: SOC Trainee | Threat Hunting      ║
+║ EXPLORING: Web Pentesting               ║
+║ HOBBIES: Guitar | Running | Painting    ║
+║ BUFF: Consistency | Daily Execution     ║
+║ DEBUFF: ADHD TENDENCIES                 ║
+║ CTF PLAYER: Learning Through Challenges ║
+╚═════════════════════════════════════════╝
 
 ```
-### CURRENT QUESTS
-```
-+ 🗡️ Create a project
-+ 🎨 Polishing UI/UX skills
-+ 📚 Scaling dev depth
-+ <> Deepening my security side
-```
-
-
 
 <br clear="right"/>
 
-<img width="1748" height="137" alt="image" src="https://github.com/user-attachments/assets/8eea6dd6-0a61-4c10-a9cf-6a7c6d4bf800" />
+<img width="1548" height="137" alt="image" src="https://github.com/user-attachments/assets/8eea6dd6-0a61-4c10-a9cf-6a7c6d4bf800" />
 
 
 
@@ -65,46 +58,16 @@
 
 ```
 ╔══════════════════════════════════════════════════╗
-║           EQUIPPED WEAPONS & TOOLS               ║
+║               EQUIPPED  TOOLS                    ║
 ╚══════════════════════════════════════════════════╝
 ```
-
-
 <p align="center" style="white-space: nowrap; overflow-x: auto;">
-  <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,nodejs,laravel,mysql,mongodb,postgresql,linux,figma,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,nodejs,laravel,mysql,mongodb,figma" />
 </p>
-
 </div>
-
-
-
-
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════╗
-║               PLAYER STATISTICS                  ║
-╚══════════════════════════════════════════════════╝
-```
-
-<br/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amdreaith&ring=EE82EE&fire=EE82EE&currStreakNum=EE82EE&sideNums=EE82EE&currStreakLabel=EE82EE&sideLabels=EE82EE&background=0d1117&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amdreaith&theme=tokyo-night" width="100%"/>
-
-</div>
-
----
-
-
-<div align="center">
-
-<h3>🚀 READY FOR THE NEXT MISSION</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=8F00FF&center=true&width=600&lines=PRESS+ANY+KEY+TO+CONTINUE...;LOADING+NEXT+ADVENTURE...;THANKS+FOR+PLAYING!;" /> </p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,17,18,19,20&height=90&section=footer&animation=twinkling"/></div>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=8F00FF&center=true&width=600&lines=PRESS+ANY+KEY+TO+CONTINUE...;LOADING+NEXT+ADVENTURE...;THANKS+FOR+VISITING!;" /> </p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,17,18,19,20&height=90&section=footer&animation=twinkling"/></div>
 
 </div>
