@@ -38,8 +38,8 @@
 ║              PLAYER PROFILE             ║
 ╠═════════════════════════════════════════╣
 ║ CLASS: Cyber Apprentice                 ║
-║ ROLE: SOC Trainee | Threat Hunting      ║
-║ EXPLORING: Web Pentesting               ║
+║ ROLE: Forensics Learner                 ║
+║ EXPLORING: Blue Side                    ║
 ║ HOBBIES: Guitar | Running | Painting    ║
 ║ BUFF: Consistency | Daily Execution     ║
 ║ DEBUFF: ADHD TENDENCIES                 ║
