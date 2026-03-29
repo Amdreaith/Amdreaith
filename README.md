@@ -38,12 +38,10 @@
 ║              PLAYER PROFILE             ║
 ╠═════════════════════════════════════════╣
 ║ CLASS: Cyber Apprentice                 ║
-║ ROLE: Forensics Learner                 ║
-║ EXPLORING: Blue Side                    ║
-║ HOBBIES: Guitar | Running | Painting    ║
-║ BUFF: Consistency | Daily Execution     ║
-║ DEBUFF: ADHD TENDENCIES                 ║
-║ CTF PLAYER: Learning Through Challenges ║
+║ STATUS: Student                         ║
+║ STRENGTH: Consistent Learner            ║
+║ WEAKNESS: Focus Management/ADHD lol     ║
+║ HOBBY : CTF , EXPLORING THINGS & ART    ║
 ╚═════════════════════════════════════════╝
 
 ```
