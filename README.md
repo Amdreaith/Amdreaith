@@ -37,38 +37,16 @@
 ╔═══════════════════════════════════════════════╗
 ║              PLAYER PROFILE                   ║
 ╠═══════════════════════════════════════════════╣
-║  NAME   :  DREAITH                            ║
-║  CLASS  :  Cyber Apprentice                   ║
-║  STATUS :  IT Student                         ║
-║  TRAIT  :  Consistent Learner                 ║
+║  Nickname : Dreyt                             ║
+║  Hobby :  Explore things                      ║
 ╠═══════════════════════════════════════════════╣
-║  MANA   :  ██████░░░░  70%                    ║
-║  HEALTH :  ██████████ 100%                    ║
+║  MANA   :  ███░░░░░░ 30%                      ║
+║  CAFFEINE :  ██████░░ 80%                     ║
 ╚═══════════════════════════════════════════════╝
 
 ```
 
-<br clear="right"/>
-
-<img width="1093" height="144" alt="image" src="https://github.com/user-attachments/assets/c8d0ecce-9abf-41f2-9c86-22147b19de52" />
-
-
-
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════╗
-║               EQUIPPED  TOOLS                    ║
-╚══════════════════════════════════════════════════╝
-```
-<p align="center" style="white-space: nowrap; overflow-x: auto;">
-  <img src="https://skillicons.dev/icons?i=python,php,nodejs,laravel,mysql,mongodb" />
-</p>
-</div>
-
-<div align="center">
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=8F00FF&center=true&width=600&lines=PRESS+ANY+KEY+TO+CONTINUE...;LOADING+NEXT+ADVENTURE...;THANKS+FOR+VISITING!;" /> </p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,17,18,19,20&height=90&section=footer&animation=twinkling"/></div>
+<div>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=500&color=8F00FF&center=true&width=600&lines=THANKS+FOR+VISITING!;" /> </p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,17,18,19,20&height=90&section=footer&animation=twinkling"/></div>
 
 </div>
